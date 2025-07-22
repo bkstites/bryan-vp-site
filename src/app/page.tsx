@@ -1,3 +1,4 @@
+// trigger redeploy
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col font-sans bg-gradient-to-b from-blue-50 to-white text-gray-900">
